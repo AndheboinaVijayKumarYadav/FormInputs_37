@@ -44,3 +44,13 @@
     padding: 7px 10px;
     margin: 10px;
 }
+
+.reset {
+    padding: 7px 10px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: red;
+    color: #FFFFFF;
+    font-size: 18px;
+}
